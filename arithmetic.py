@@ -22,10 +22,10 @@ def power(num1, num2):
 def mod(num1, num2):
     print num1 % num2
 
-add(6,5)
-subtract(6,5)
-multiply(6,5)
-divide(6,5)
+add(7,5)
+subtract(7,5)
+multiply(7,5)
+divide(7,5)
 square(6)
 cube(6)
 power(6,5)
